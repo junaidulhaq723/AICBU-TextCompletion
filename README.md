@@ -10,3 +10,7 @@ Using hugging face api urls and open api client, application requests the select
 Respond returned is displayed as soon as it is returned using streaming.
 
 Hope its helpful for AI Beginners. Specially for people looking to experinment using free resources in C# and .Net.
+
+**API Key** 
+You will have to create an accoung on hugging face and generate a key with Read access. It will do the job.
+For more help you can reach out to me!
