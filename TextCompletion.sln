@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextCompletion", "TextCompletion.csproj", "{AB51B953-D876-4766-A20A-96367D103A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB51B953-D876-4766-A20A-96367D103A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB51B953-D876-4766-A20A-96367D103A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB51B953-D876-4766-A20A-96367D103A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB51B953-D876-4766-A20A-96367D103A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8D496C7-8A03-4259-B8A5-02EAB3B9D922}
+	EndGlobalSection
+EndGlobal
